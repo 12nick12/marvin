@@ -59,6 +59,16 @@ You will need two pieces of information to set up Pushover notifications - your 
 5) Copy your new API token to your config, along with the user key.
 6) Enjoy!
 
+#### Set Up MatterMost for notifications ####
+1) Go to your mattermost instance URL
+2) Go to the hamburger menu (3 horizontal lines) in the upper left hand side
+3) Then click integrations
+4) Hit incoming webhook
+5) Hit add incoming webhook in the upper right hand corner
+6) Fill out the info in the boxes
+7) Once you hit save it will give you a URL
+8) The API is the part behind the hooks, the URL is the part before the hook including HTTP/S
+
 ### Support Marvin Development
 Donate via Bitcoin, 1KZGrTNjtthNEsf8fruWiMHiKD3zdm3hGY
 
